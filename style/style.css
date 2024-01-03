@@ -46,5 +46,5 @@ body {
   padding: 24px 49px;
 }
 .link:not(:last-child) {
-  margin-right: 25px;
+  margin-right: 25;
 }
